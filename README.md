@@ -13,5 +13,3 @@ I'm a Software Engineer, Content Creator
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibraheemmawwal&count_private=true" />
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ibraheemmawwal&layout=compact" />
