@@ -9,7 +9,7 @@ I'm a Software Engineer, Content Creator
 - 🌱 Languages: JavaScript, Reactjs, and Nodejs.
 
 - 💼 Job interests: Software Engineer
-- 📫 You can [view my resume](https://drive.google.com/file/d/1-q0BRanVWO4haYhQDm64hfS6mErDLz2r/view) and contact me by emailing mailtoibraheemmuhdawwal@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1CaRuSk4LBTWCoHDg_iYokgoYr6gE8BUw/view?usp=share_link) and contact me by emailing mailto:(ibraheemmuhdawwal@gmail.com).
 
 ---
 
